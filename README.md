@@ -1,7 +1,7 @@
 # Node js and React js Chat App using Chat Engine
 
 This is a detailed readme file for the project.
-![Alt Text](assets/image.png)
+![Alt Text](/assets/image.png)
 
 ## Introduction
 
