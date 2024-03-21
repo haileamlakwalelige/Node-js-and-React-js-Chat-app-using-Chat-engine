@@ -24,6 +24,6 @@ app.post('/authenticate', async (req, res) => {
     }
 });
 
-app.listen(3001, () => {
-    console.log("Server is running successfully!");
+app.listen(3000, () => {
+  console.log("Server is running successfully!");
 });
